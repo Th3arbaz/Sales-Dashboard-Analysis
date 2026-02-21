@@ -5,7 +5,7 @@ Dataset: 100,000 Sales Records
 
 ## Project Overview
 ## Dashboard Preview
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](Dashboard.png)
 
 This project analyzes a large sales dataset using Power BI to understand overall business performance. The dashboard focuses on revenue, profit, regional contribution, sales trends, and sales channels. 
 
