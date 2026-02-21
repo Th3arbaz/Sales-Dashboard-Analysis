@@ -4,6 +4,8 @@ Tool Used: Microsoft Power BI
 Dataset: 100,000 Sales Records  
 
 ## Project Overview
+## Dashboard Preview
+![Sales Dashboard](dashboard.png)
 
 This project analyzes a large sales dataset using Power BI to understand overall business performance. The dashboard focuses on revenue, profit, regional contribution, sales trends, and sales channels. 
 
@@ -59,3 +61,4 @@ The company is profitable and performing well overall. However, improvements can
 - Strengthening digital sales channels  
 
 This project demonstrates how Power BI can be used to convert raw data into meaningful business insights.
+
